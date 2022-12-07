@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-11
+ Volume Serial Number is FA82-7AE2
+
+ Directory of C:\Users\Hi\Desktop\My Project
+
+07-12-2022  19:36    <DIR>          .
+07-12-2022  19:33    <DIR>          ..
+07-12-2022  19:36                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  202,808,303,616 bytes free
